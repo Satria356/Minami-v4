@@ -22,19 +22,19 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281223918622'] //GANTI NOMOR KALIAN
-global.premium = ['6281223918622'] //GANTI NOMOR KALIAN
-global.packname = 'MinamiBot MD' //TERSERAH GANTI APA GAK
-global.author = 'LoliBot MD' //TERSERAH
+global.owner = ['6283811034750'] //GANTI NOMOR KALIAN
+global.premium = ['6283811034750'] //GANTI NOMOR KALIAN
+global.packname = 'BOT-MD' //TERSERAH GANTI APA GAK
+global.author = 'WA-BOT-MD' //TERSERAH
 global.sessionName = 'lolibot' //JANGAN DIGANTI KALO GAK MAU EROR
 global.prefa = ['','!','.','🐦','🐤','🗿'] //JANGAN DI GANTI
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
+    success: '🪀 Success',
     admin: 'Fitur Khusus Admin Group Bang!',
     botAdmin: 'Jadiin Admin Dulu Lah Bot Nya Tolol Kali Kau Bang',
     eror: 'Yah Eror kak',
-    owner: 'Fitur Khusus Riyo XDZ',
+    owner: 'Fitur Khusus Owner!!!',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
